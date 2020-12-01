@@ -1,6 +1,6 @@
 ---
 name: Lynx 2 Feature Request
-about: Suggest a reasonable feature to be added to lynx
+about: Suggest a reasonable feature to be added to Lynx 2
 title: ''
 labels: enhancement
 assignees: MTACS
