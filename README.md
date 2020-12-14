@@ -3,7 +3,9 @@ Place for tracking Lynx 2.0+ issues and feature requests
 
 <p align="center">
   <a href="https://twitter.com/mtac8" align="center"><img src="https://img.shields.io/twitter/follow/mtac8?style=social"></a>
+  </br>
 </p>
+
 
 ![Lynx](http://mtac.app/assets/images/lynx2banner.png)
 
