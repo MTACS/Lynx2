@@ -44,4 +44,34 @@ SpringBoard (System Wide)
 * Hide screenshot previeew
 * Disable screenshot sound
 
+Lockscreen
 
+* Enable MagSafe animation
+* Hide clock label
+* Hide clock subtitle
+* Custom clock alpha
+* Custom clock subtitle alpha
+* Set custom clock font weight
+* Set custom clock font size
+* Set custom clock font
+* Hide Control Center grabber
+* Hide battery view
+* Always use Do Not Disturb dark style
+* Hide Press to 'Unlock/Swipe up to Unlock' text
+* Use custom 'Press to Unlock/Swipe up to Unlock' text
+* Show Press to 'Unlock/Swipe up to Unlock' text immmediately
+* Hide Page Dots
+* Hide Do Not Disturb banner
+* Pull to clear notifications
+* Use Modern notification icons
+* Hide notification swipe separators
+* Hide passcode cancel button
+* Hide passcode emergency button
+* Hide passcode backspace button
+* Hide 'Enter Passcode' text
+* Use custom 'Enter Passcode' text
+* Use passcode button haptic feedback
+* Hide both or individual Lockscreen quick action buttons
+* Hide Lockscreen quick action button background blur
+* Show number of notifications in app group
+* Hide 'No Older Notifications' text
