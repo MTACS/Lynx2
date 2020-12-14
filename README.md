@@ -46,8 +46,11 @@ SpringBoard (System Wide)
 * Hide tab bar labels
 * Use haptic feedback on tab bar buttons
 * Hide Homescreen page dots
-* Hide screenshot previeew
+* Hide screenshot preview
 * Disable screenshot sound
+* Hide open folder background
+* Hide open folder title
+* Hide folder icon background view
 
 Lockscreen
 
