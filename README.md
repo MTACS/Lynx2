@@ -220,6 +220,8 @@ Messages
 
 * Hide pinned conversation glow
 * Hide separators in conversation list
+* Use custom pinned bubble background color
+* Use custom pinned bubble label text color
 
 Camera
 
