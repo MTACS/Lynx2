@@ -15,6 +15,11 @@ Available soon to [Twickd](https://repo.twickd.com/)
 
 ## Current Features
 
+Lynx Settings Page
+
+* Choice between list or grid layout
+* Search bars for looking for specific feature
+
 SpringBoard (System Wide)
 
 * Select Dark/Light apps
@@ -75,3 +80,156 @@ Lockscreen
 * Hide Lockscreen quick action button background blur
 * Show number of notifications in app group
 * Hide 'No Older Notifications'
+
+App Library
+
+* Disable App Library on iPhone
+* Open in list mode by default
+* Hide Pod background blur
+* Hide Pod category name
+* Hide folder app labels
+* Hide folder titles
+* Hide search bar blur
+* Hide magnifying glass icon
+* Haptic feedback on open
+* Haptic feedback on close
+
+Status Bar
+
+* Use iPad style on iPhone
+* Hide iPad style date
+* Hide Camera and Microphone usage dot
+* Hide breadcrumbs
+* Hide globally
+* Hide on Lockscreen
+* Hide on Homescreen
+* Hide battery
+* Hide battery bolt
+* Show battery percentage inside icon
+* Hide Wi-Fi signal
+* Hide cell signal
+* Hide clock
+* Hide carrier text
+* Hide location arrow
+* Hide rotation lock
+* Hide Do No Disturb moon
+* Hide Bluetooth icon
+* Hide Alarm bell
+* Hide Airplane mode
+* Hide VPN icon
+* Hide CarPlay icon
+* Hide 'Not Charging' text
+* Hide lock icon (non notched devices)
+* Hide screen recording colored pill/bar
+* Hide screen recording pill/bar
+* Use Wi-Fi address as carrier text
+* Use custom carrier text
+* Use current date as carrier, and set custom format
+* Use custom time format
+
+Icons
+
+* Hide 3D Touch remove stack
+* Hide 3D Touch configure widget
+* Hide 3D Touch configure stack
+* Hide 3D Touch edit homescreen
+* Hide 3D Touch share app
+* Hide 3D Touch delete app
+* Hide 3D Touch pause download
+* Hide 3D Touch cancel download
+* Hide 3D Touch prioritize download
+* Hide 3D Touch separators
+* Hide 3D Touch images
+* Show Wi-Fi address on settings platter
+* Show battery percentage on settings platter
+* Add 'Clear Badges' option
+* Hide icon labels
+* Use custom icon label color
+* Hide recently updated dots
+* Hide beta app dots
+* Use average icon badge color
+* Hide icon badges
+* Hide icon badge text
+
+App Switcher
+
+* Use grid style (iPhone)
+* Use page style (iPad)
+* Hide app suggestion banner
+* 3D Touch to kill all running apps
+* Use kill all apps confirmation
+* Prevent killing of now playing apps
+* Disable side 3D touch gesture
+
+Widgets
+
+* Hide labels on Homescreen
+* Hide stack side scroll dots
+* Tap on battery widget for Low Power Mode
+* Hide battery widget empty rings
+* Hide battery widget separator lines (4x4)
+* Hide Siri widget separator lines (4x4)
+
+Control Center
+
+* Disable Control Center
+* Actually disable Wi-Fi & Bluetooth
+* Hide Camera and Microphone usage label
+* Use rounded modules
+* Show volume and brightness slider percentages
+* Hide top chevron
+
+Settings
+
+* Use custom first name
+* Use custom last name
+* Hide cell icons
+* Use rounded cell icons
+* Hide chevrons
+* Hide 3rd Party Apps
+* Hide COVID-19 exposure notifications
+* Show local Wi-Fi address
+
+Music
+
+* Hide 'Up Next' & 'Queue' popups
+* Show all recently added songs in Library
+* Use 3 column recently added list (iPhone)
+
+Photos
+
+* Skip photo deletion
+* Show image size in title
+* Use infinite zoom
+
+AppStore
+
+* Replace Arcade tab with updates button
+
+Phone
+
+* Hide dialer button background
+* Show exact call time
+* Change date format of calls
+* Hide 3rd party app calls
+* Hide voicemail tab
+* Hide call button background
+* Use custom call button background
+
+Messages
+
+* Hide pinned conversation glow
+* Hide separators in conversation list
+
+Camera
+
+* Use iPad style layout
+* Hide recent picture preview
+* Disable shutter sound
+
+Experimental features
+
+* Use notched status bar on non native device
+* Use flat Safari search bar
+* Set custom screen corner radius
+* Use custom icon scale
