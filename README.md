@@ -1,5 +1,5 @@
 # Lynx 2 - Ultimate device customization for iOS 14
-Place for tracking Lynx 2.0+ issues and feature requests
+Place for tracking Lynx 2.0 issues and feature requests
 
 <p align="left">
   <a href="https://twitter.com/mtac8" align="center"><img src="https://img.shields.io/twitter/follow/mtac8?style=social"></a>
