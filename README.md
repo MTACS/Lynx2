@@ -11,7 +11,7 @@ Place for tracking Lynx 2.0 issues and feature requests
 
 Requires Cephei from [Chariz](https://repo.chariz.io/), and [libsparkcolourpicker](https://sparkdev.me/repo) and [libSparkAppList](https://sparkdev.me/repo)
 
-Available soon to [Twickd](https://repo.twickd.com/)
+Available on [Twickd](https://repo.twickd.com/package/com.twickd.mtac.lynx-2)
 
 ## Current Features
 
