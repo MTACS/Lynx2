@@ -21,5 +21,6 @@ If applicable, add screenshots to help explain your problem.
 
 **Platform (please complete the following information):**
  - Device: (iPhone X)
+ - Injection: (substrate, libhooker)
  - iOS Version: (iOS 14.1)
  - Package Manager: (Zebra, Installer, Cydia, Sileo)
