@@ -51,6 +51,7 @@ SpringBoard (System Wide)
 * Hide open folder background
 * Hide open folder title
 * Hide folder icon background view
+* Set custom number of dock icons, folder rows and columns
 
 Lockscreen
 
@@ -108,6 +109,7 @@ Status Bar
 * Hide on Homescreen
 * Hide battery
 * Hide battery bolt
+* Hide battery percentage string
 * Show battery percentage inside icon
 * Hide Wi-Fi signal
 * Hide cell signal
@@ -181,6 +183,7 @@ Control Center
 * Use rounded modules
 * Show volume and brightness slider percentages
 * Hide top chevron
+* Fit blurred view to CC view (iPadOS)
 
 Settings
 
