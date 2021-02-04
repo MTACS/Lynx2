@@ -84,6 +84,7 @@ Lockscreen
 * Hide Lockscreen quick action button background blur
 * Show number of notifications in app group
 * Hide 'No Older Notifications'
+* Use border shadows on notifications and banners
 
 App Library
 
@@ -174,6 +175,7 @@ Widgets
 * Hide battery widget empty rings
 * Hide battery widget separator lines (4x4)
 * Hide Siri widget separator lines (4x4)
+* Use border shadow with custom color and intensity
 
 Control Center
 
@@ -183,7 +185,8 @@ Control Center
 * Use rounded modules
 * Show volume and brightness slider percentages
 * Hide top chevron
-* Fit blurred view to CC view (iPadOS)
+* Fit blurred view to CC view (iPadOS and non notched devices)
+* Use border shadow with custom color and intensity on modules and background view 
 
 Settings
 
