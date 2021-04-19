@@ -52,6 +52,9 @@ SpringBoard (System Wide)
 * Hide open folder title
 * Hide folder icon background view
 * Set custom number of dock icons, folder rows and columns
+* Enable Drag & Drop
+* Auto expand notification banners
+* Tint UISwitch knob
 
 Lockscreen
 
@@ -85,6 +88,7 @@ Lockscreen
 * Show number of notifications in app group
 * Hide 'No Older Notifications'
 * Use border shadows on notifications and banners
+* Disable unlock animation
 
 App Library
 
@@ -98,6 +102,7 @@ App Library
 * Hide magnifying glass icon
 * Haptic feedback on open
 * Haptic feedback on close
+* Delete apps in List mode
 
 Status Bar
 
@@ -149,6 +154,7 @@ Icons
 * Show Wi-Fi address on settings platter
 * Show battery percentage on settings platter
 * Add 'Clear Badges' option
+* Add 'Rename App' option
 * Hide icon labels
 * Use custom icon label color
 * Hide recently updated dots
@@ -156,13 +162,15 @@ Icons
 * Use average icon badge color
 * Hide icon badges
 * Hide icon badge text
+* Show download percentage
+* Hide apps on SpringBoard
 
 App Switcher
 
 * Use grid style (iPhone)
 * Use page style (iPad)
 * Hide app suggestion banner
-* 3D Touch to kill all running apps
+* 3D Touch or swipe down to kill all running apps
 * Use kill all apps confirmation
 * Prevent killing of now playing apps
 * Disable side 3D touch gesture
@@ -187,6 +195,7 @@ Control Center
 * Hide top chevron
 * Fit blurred view to CC view (iPadOS and non notched devices)
 * Use border shadow with custom color and intensity on modules and background view 
+* 
 
 Settings
 
@@ -198,6 +207,7 @@ Settings
 * Hide 3rd Party Apps
 * Hide COVID-19 exposure notifications
 * Show local Wi-Fi address
+* Show & copy UUID in About section
 
 Music
 
@@ -237,6 +247,7 @@ Camera
 * Use iPad style layout
 * Hide recent picture preview
 * Disable shutter sound
+* Double tap to flip
 
 Experimental features
 
@@ -244,3 +255,4 @@ Experimental features
 * Use flat Safari search bar
 * Set custom screen corner radius
 * Use custom icon scale
+* Use iPhone X style UI
