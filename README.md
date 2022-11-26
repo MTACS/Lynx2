@@ -9,9 +9,9 @@ Place for tracking Lynx 2.0 issues and feature requests
 
 ![Lynx](http://mtac.app/assets/images/lynx2banner.png)
 
-Requires Cephei from [Chariz](https://repo.chariz.io/), and [libsparkcolourpicker](https://sparkdev.me/repo) and [libSparkAppList](https://sparkdev.me/repo)
+Requires Cephei from [Chariz](https://repo.chariz.io/)
 
-Available on [Twickd](https://repo.twickd.com/package/com.twickd.mtac.lynx-2)
+Available on [Havoc](https://github.com/MTACS/Lynx2)
 
 ## Current Features
 
