@@ -14,7 +14,7 @@ Available on [Havoc](https://github.com/MTACS/Lynx2)
 
 Lynx Settings Page
 
-* Choice between list or grid layout
+* Toggle for each idividual section
 * Search bars for looking for specific feature
 
 SpringBoard (System Wide)
