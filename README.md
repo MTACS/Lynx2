@@ -5,6 +5,8 @@
   </br>
 </p>
 
+![lynxbanner24](https://github.com/MTACS/Lynx2/assets/13209789/570d5e24-6e00-439a-beeb-e8900b90a35c)
+
 Requires Cephei from [Chariz](https://repo.chariz.io/)
 
 Available on [Havoc](https://github.com/MTACS/Lynx2)
