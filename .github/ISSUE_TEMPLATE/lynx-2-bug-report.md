@@ -2,25 +2,22 @@
 name: Lynx 2 Bug Report
 about: Create a report to help improve Lynx 2
 title: ''
-labels: bug
+labels: Bug
 assignees: MTACS
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+Please fill out all fields with as much detail as possible
 
-**To Reproduce**
-Steps to reproduce the behavior:
+**Describe the bug:**
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Process To Reproduce:**
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Expected behavior:**
+
+**Screenshots:**
 
 **Platform (please complete the following information):**
- - Device: (iPhone X)
- - Injection: (substrate, libhooker)
- - iOS Version: (iOS 14.1)
- - Package Manager: (Zebra, Installer, Cydia, Sileo)
+ - Device:
+ - Injection: (substrate/substitute, libhooker, ellekit)
+ - iOS Version:
