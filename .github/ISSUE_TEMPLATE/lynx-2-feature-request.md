@@ -2,7 +2,7 @@
 name: Lynx 2 Feature Request
 about: Suggest a reasonable feature to be added to Lynx 2
 title: ''
-labels: Enhancement
+labels: ''
 assignees: MTACS
 
 ---
