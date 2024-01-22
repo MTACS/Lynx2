@@ -11,43 +11,95 @@ Requires Cephei from [Chariz](https://repo.chariz.io/)
 
 Available on [Havoc](https://github.com/MTACS/Lynx2)
 
-# Changelogs
-
+#
 <details>
-    <summary><h2><strong>2.4.1</strong><h2></summary>
+  <summary><h2><strong>Changelogs</strong></h2></summary>
+  <details>
+    <summary><h3><strong>2.4.6</strong></h3></summary>
     <h4>Fixes</h4>
-    <h6>- Fixed tweak preferences not being loaded into sandboxed apps on rootless jailbreaks</h6>
-    <h6>- Fixed alert when closing all apps in switcher on iPadOS not following device orientation</h6>
-    <h6>- Fixed hiding Lockscreen quick action button background not working</h6>
-    <h6>- Fixed Control Center connectivity changes label not being hidden</h6>
-    <h6>- Fixed section icons in Lynx's preference page not being colored correctly</h6>
-    <h6>- Fixed cells in Settings causing visual glitches when changed</h6>
-    <h6>- Fixed tab bar button images layout positioning on non notched devices</h6>
-    <h6>- Fixed 'Hide Action Images' not working on Homescreen 3D Touch actions</h6>
-    <h6>- Fixed SpringBoard volume slider potentially showing control center slider percentage</h6>
-    <h6>- Fixed Lockscreen clock always displaying 12 hour format when displaying seconds even if device was set to 24 hour format</h6>
-    <h6>- Fixed Control Center slider percentages not appearing in expanded mode</h6>
-    <h6>- Fixed Lockscreen date positioning overriding value set with Nexus tweak by @iCrazeiOS</h6>
-    <h6>- Fixed apps not being terminated when swiping down to kill all</h6>
-    <h6>- Fixed audio routing button not hiding</h6>
-    <h6>- Fixed badges not being colored properly when using average icon color</h6>
-    <h6>- Fixed coloring in About section of settings when using light interface mode</h6>
-    <h6>- Fixed 'Face Down to Lock' not working on iOS 15+</h6>
-    <h6>- Fixed hidden cells in Settings not updating when changing value</h6>
-    <h6>- Fixed stepper cells crashing Settings app when changing value</h6>
-    <h6>- Fixed Spotlight layout breaking on iPadOS due to the default of 4 icons per row on iPhone</h6>
+    <h6>- Fixed spacing on Lockscreen when hiding Do Not Disturb indicator on iOS 16 (Thanks Nightwind & Luki)</h6>
+    <h6>- Fixed some preferences not being set on rootless jailbreaks</h6>
     <h4>Changes</h4>
-    <h6>- Added ability to import or export settings data in About section</h6>
-    <h6>- Added blur to applications in App Switcher that are locked via 3D Touch menu</h6>
-    <h6>- Added option to always use expanded media player on Lockscreen (iOS 16 only)</h6>
-    <h6>- Added option to skip navigation apps when killing all apps in App Switcher</h6>
-    <h6>- Added option to set custom page scaling in App Switcher</h6>
-    <h6>- Added option to set custom spacing between pages when using grid layout in App Switcher</h6>
-    <h6>- Added option to disable swipe to last app gesture on devices with Home Bar</h6>
-    <h6>- Removed option to press to kill apps in switcher as method was not reliable</h6>
-    <h6>- Added option to make 'Hide DND Banner' affect iOS 15+'s DND Focus indicator</h6>
-    <h6>- Added option to show indicator on running apps in Dock with options for shape and color</h6>
-    <h6>- Removed option to display cellular signal as RSSI until better method is implemented</h6>
+    <h6>- Added option to replace dictation key with dismiss keyboard</h6>
+    <h6>- Added option to display cellular data used in Settings</h6>
+    <h6>- Added option to show network download & upload speed in StatusBar</h6>
+    <h6>- Added option to choose Control Center background blur style</h6>
+  </details>
+  <details>
+    <summary><h3><strong>2.4.5</strong></h3></summary>
+    <h4>Fixes</h4>
+    <h6>- Fixed missing ability to set custom icon label color</h6>
+    <h6>- Fixed Lockscreen date view using wrong date formatter when displaying seconds</h6>
+    <h6>- Fixed Status Bar displaying improperly on certain notched iPhones</h6>
+    <h6>- Fixed Homescreen page dots not hiding properly</h6>
+    <h4>Changes</h4>
+    <h6>- Added option to disable parallax effect on Homescreen wallpaper</h6>
+    <h6>- Added option to hide CarPlay icon labels</h6>
+    <h6>- Added option to hide CarPlay icon label backgrounds</h6>
+    <h6>- Added option to use custom number of icon columns in CarPlay</h6>
+    <h6>- Added option to always show battery icon in CarPlay, even if device is connected via USB</h6>
+    <h6>- Added option to show current temperature in CarPlay Status Bar</h6>
+    <h6>- Added option to choose which edge of screen to display CarPlay Status Bar</h6>
+    <h6>- Added option to set custom wallpaper in CarPlay</h6>
+    <h6>- Increased sensitivity of swipe gesture to kill all apps in App Switcher</h6>
+    <h6>- Added option to bypass 'Recently Deleted' album & remove media items in Photos permanently</h6>
+    <h6>- Added option to enable FluidUI gestures on devices with Home Button (Thanks ETHN)</h6>
+    <h6>- Changed badge coloring logic on folder icons to use the average color of the first icon with notifications</h6>
+  </details>
+  <details>
+    <summary><h3><strong>2.4.3</strong></h3></summary>
+    <h4>Fixes</h4>
+    <h6>- Fixed Lockscreen clock alignment in landscape mode</h6>
+    <h6>- Fixed 'Replace Spotlight' not working on rootless iOS 15 jailbreaks</h6>
+    <h6>- Fixed 'Remove App Library' not working on iOS 15 jailbreaks</h6>
+    <h6>- Fixed 'Lock Hidden Album' feature in Photos not working</h6>
+    <h4>Changes</h4>
+    <h6>- Increased the maximum & minimum possible values for notification lists offset</h6>
+    <h6>- Added option to enable notched style status bar</h6>
+  </details>
+  <details>
+    <summary><h3><strong>2.4.2</strong></h3></summary>
+    <h4>Fixes</h4>
+    <h6>- Fixed issue causing a respring loop on rootless jailbreaks when using a custom homescreen layout</h6>
+    <h4>Changes</h4>
+    <h6>- No new changes, all requests since release of version 2.4.1 will be included in a future update</h6>
+  </details>
+  <details>
+      <summary><h3><strong>2.4.1</strong><h3></summary>
+      <h4>Fixes</h4>
+      <h6>- Fixed tweak preferences not being loaded into sandboxed apps on rootless jailbreaks</h6>
+      <h6>- Fixed alert when closing all apps in switcher on iPadOS not following device orientation</h6>
+      <h6>- Fixed hiding Lockscreen quick action button background not working</h6>
+      <h6>- Fixed Control Center connectivity changes label not being hidden</h6>
+      <h6>- Fixed section icons in Lynx's preference page not being colored correctly</h6>
+      <h6>- Fixed cells in Settings causing visual glitches when changed</h6>
+      <h6>- Fixed tab bar button images layout positioning on non notched devices</h6>
+      <h6>- Fixed 'Hide Action Images' not working on Homescreen 3D Touch actions</h6>
+      <h6>- Fixed SpringBoard volume slider potentially showing control center slider percentage</h6>
+      <h6>- Fixed Lockscreen clock always displaying 12 hour format when displaying seconds even if device was set to 24 hour format</h6>
+      <h6>- Fixed Control Center slider percentages not appearing in expanded mode</h6>
+      <h6>- Fixed Lockscreen date positioning overriding value set with Nexus tweak by @iCrazeiOS</h6>
+      <h6>- Fixed apps not being terminated when swiping down to kill all</h6>
+      <h6>- Fixed audio routing button not hiding</h6>
+      <h6>- Fixed badges not being colored properly when using average icon color</h6>
+      <h6>- Fixed coloring in About section of settings when using light interface mode</h6>
+      <h6>- Fixed 'Face Down to Lock' not working on iOS 15+</h6>
+      <h6>- Fixed hidden cells in Settings not updating when changing value</h6>
+      <h6>- Fixed stepper cells crashing Settings app when changing value</h6>
+      <h6>- Fixed Spotlight layout breaking on iPadOS due to the default of 4 icons per row on iPhone</h6>
+      <h4>Changes</h4>
+      <h6>- Added ability to import or export settings data in About section</h6>
+      <h6>- Added blur to applications in App Switcher that are locked via 3D Touch menu</h6>
+      <h6>- Added option to always use expanded media player on Lockscreen (iOS 16 only)</h6>
+      <h6>- Added option to skip navigation apps when killing all apps in App Switcher</h6>
+      <h6>- Added option to set custom page scaling in App Switcher</h6>
+      <h6>- Added option to set custom spacing between pages when using grid layout in App Switcher</h6>
+      <h6>- Added option to disable swipe to last app gesture on devices with Home Bar</h6>
+      <h6>- Removed option to press to kill apps in switcher as method was not reliable</h6>
+      <h6>- Added option to make 'Hide DND Banner' affect iOS 15+'s DND Focus indicator</h6>
+      <h6>- Added option to show indicator on running apps in Dock with options for shape and color</h6>
+      <h6>- Removed option to display cellular signal as RSSI until better method is implemented</h6>
+  </details>
 </details>
 
 # SpringBoard (System-Wide)  
