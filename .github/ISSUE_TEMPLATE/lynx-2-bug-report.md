@@ -23,6 +23,7 @@ Please fill out all fields with as much detail as possible
     - checkra1n
     - palera1n (specify rootful or rootless)
     - Dopamine
+    - Nathanlr
     - Xina (Only rootless version is supported)
     - Serotonin (bootstrap based)
  - iOS Version:
